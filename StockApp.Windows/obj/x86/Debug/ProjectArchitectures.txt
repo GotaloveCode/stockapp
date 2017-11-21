@@ -1,0 +1,1 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\StockApp.Windows.csproj;x86

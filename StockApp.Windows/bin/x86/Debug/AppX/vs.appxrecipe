@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARTRIX</Machine>
+    <WindowsUser>marti</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>f4a7c98f-6910-4821-b907-878f02ffc928</PackageIdentityName>
+    <PackageIdentityPublisher>CN=marti</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>34C225127CA138B48CA961B6EB8A9DAF1310E5FF60C1853120463B34EE956FE1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f4a7c98f-6910-4821-b907-878f02ffc928_1.0.0.0_x86__m1eq83gekd84y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f4a7c98f-6910-4821-b907-878f02ffc928_m1eq83gekd84y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f4a7c98f-6910-4821-b907-878f02ffc928</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=marti</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-08T14:37:44.355</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\StockApp.Windows.exe">
+      <PackagePath>StockApp.Windows.exe</PackagePath>
+      <Modified>2016-12-08T14:37:44.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-12-10T15:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-12-10T15:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\StockApp.Windows.xr.xml">
+      <PackagePath>StockApp.Windows.xr.xml</PackagePath>
+      <Modified>2016-12-08T14:36:25.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-12-08T14:22:56.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-12-08T14:36:25.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\OrientationPage.xbf">
+      <PackagePath>OrientationPage.xbf</PackagePath>
+      <Modified>2016-12-08T14:22:56.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marti\Documents\Visual Studio 2015\Projects\StockApp.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-12-08T14:37:44.204</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
